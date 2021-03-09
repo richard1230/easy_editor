@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/easy_editor/static/css/main.b481493a.chunk.css",
+    "main.js": "/easy_editor/static/js/main.7141d2b3.chunk.js",
+    "main.js.map": "/easy_editor/static/js/main.7141d2b3.chunk.js.map",
+    "runtime-main.js": "/easy_editor/static/js/runtime-main.ace90da6.js",
+    "runtime-main.js.map": "/easy_editor/static/js/runtime-main.ace90da6.js.map",
+    "static/css/2.523d0a65.chunk.css": "/easy_editor/static/css/2.523d0a65.chunk.css",
+    "static/js/2.4befb0ad.chunk.js": "/easy_editor/static/js/2.4befb0ad.chunk.js",
+    "static/js/2.4befb0ad.chunk.js.map": "/easy_editor/static/js/2.4befb0ad.chunk.js.map",
+    "static/js/3.efbfc509.chunk.js": "/easy_editor/static/js/3.efbfc509.chunk.js",
+    "static/js/3.efbfc509.chunk.js.map": "/easy_editor/static/js/3.efbfc509.chunk.js.map",
+    "index.html": "/easy_editor/index.html",
+    "static/css/2.523d0a65.chunk.css.map": "/easy_editor/static/css/2.523d0a65.chunk.css.map",
+    "static/css/main.b481493a.chunk.css.map": "/easy_editor/static/css/main.b481493a.chunk.css.map",
+    "static/js/2.4befb0ad.chunk.js.LICENSE.txt": "/easy_editor/static/js/2.4befb0ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ace90da6.js",
+    "static/css/2.523d0a65.chunk.css",
+    "static/js/2.4befb0ad.chunk.js",
+    "static/css/main.b481493a.chunk.css",
+    "static/js/main.7141d2b3.chunk.js"
+  ]
+}
